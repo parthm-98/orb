@@ -1,4 +1,3 @@
-import Image from "next/image";
 import { Orb } from "./components/orb";
 
 export default function Home() {
